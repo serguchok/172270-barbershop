@@ -2,7 +2,7 @@
 
 * Студент: [Сергей Сытник](https://htmlacademy.ru/profile/id172270).
 
----
+* Наставник: [Александр Половников] (https://htmlacademy.ru/profile/alexpol)
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitignore`, `Readme.md`._
